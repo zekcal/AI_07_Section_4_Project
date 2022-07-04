@@ -28,7 +28,7 @@
   - batch size 16, epoch 500으로 진행하였음
 
 - **외부 사이트를 활용한 학습**
-  - **[외부 사이트 ainize](https://ainize.ai/teachable-nlp)**를 사용해 학습시킴
+  - [외부 사이트 ainize](https://ainize.ai/teachable-nlp)를 사용해 학습시킴
 
 #### 3. 결론
 ![image](https://user-images.githubusercontent.com/89769294/176871739-904d6163-338f-4b6c-a3ee-e1416f26d30a.png)
